@@ -1,4 +1,4 @@
-# yandex_praktikum_projects
+#Telecom
 
 Описание проета:  
 Компания «Ниединогоразрыва.ком» хочет предсказать отток клиентов.  
@@ -9,3 +9,5 @@
 Проведен анали данных. 
 Опробованы разные модели (DecisionTreeClassifier, RandomForest, LGMB, Catboost, а также построена нейронная сеть)  
 Используемые библиотеки: pandas, numpy, matplotlib, sklearn, tensorflow, keras, lightgbm, catboost.
+
+
