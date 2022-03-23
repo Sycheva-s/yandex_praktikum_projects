@@ -8,4 +8,4 @@
 Проведен расчет возможных прибыли и рисков.    
 
 **Используемые библиотеки**  
-pandas, numpy, scipy, sklearn
+pandas, numpy, scipy, sklearn, bootstrap
